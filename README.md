@@ -1,8 +1,13 @@
-### Oi, me chamo Guilherme! 👋
+### Bem vindo!
 
-- Sou Desenvolvedor Web Full-Stack {em desenvolvimento} apaixonado por Tecnologia, faço parte da T4 da Driven Education.
-- No momento estou me aperfeiçoando em front-end, em breve pretendo explorar o universo do back-end.
-- Uma curiosidade: Adoro gatos!
+- Olá! Me chamo Guilherme, tenho 23 anos e moro no Rio de Janeiro.
+- Faço parte da T4 da Driven Education, uma instituição de ensino que forma Devs.
+- No momento estou me aperfeiçoando com as tecnologias necessárias para ser um desenvolvedor full stack.
+- Algumas curiosidades sobre mim: 
+  - Eu curso Engenharia Naval e Oceânica na UFRJ
+  - Me apaixonei por desenvolvimento web durante a pandemia e aproveitei o momento para estudar sobre o assunto em casa através de alguns cursos pagos.
+  - Adoro o ambiente que a faculdade nos proposciona, antes da pandemia eu passava mais tempo no campus do que em casa, devido a distância,                   porque era mais fácil para estudar para as provas e por causa da galera que era muito gente boa.
+  - Durante esse período de pandemia adotei uma gatinha chamada Bambina e pretendo adotar mais alguns rs.
 
 
 
@@ -24,21 +29,4 @@
     
   ![Snake animation](https://github.com/GuilhermeArrudda/GuilhermeArrudda/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-
-
-
-<!--
-**GuilhermeArrudda/GuilhermeArrudda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ an
